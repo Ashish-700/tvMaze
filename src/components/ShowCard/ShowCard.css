@@ -1,0 +1,25 @@
+.show-card {
+  display: flex;
+
+  gap: 2rem;
+  background-color: #900303;
+  color: #cccccc;
+  width: 37rem;
+  height: 27rem;
+  border-radius: 0.4rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.show-card img {
+  width: 20rem;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.show-info button {
+  width: 10rem;
+  height: 2rem;
+  border: none;
+  border-radius: 2px;
+}

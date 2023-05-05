@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  align-items: center;
+  height: 5rem;
+  background-color: #000000;
+}
+
+header a.logo {
+  color: #cccccc;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin-left: 2.3rem;
+}

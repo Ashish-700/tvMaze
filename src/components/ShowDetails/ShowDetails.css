@@ -1,0 +1,19 @@
+.details-page {
+  margin: 1rem auto;
+  max-width: 60rem;
+  display: flex;
+  gap: 2rem;
+  background-color: brown;
+}
+
+.details-page img {
+  width: 30rem;
+  object-fit: cover;
+}
+
+.show-summary button {
+  width: 10rem;
+  height: 2rem;
+  border: none;
+  border-radius: 2px;
+}

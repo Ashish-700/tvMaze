@@ -1,0 +1,31 @@
+.booking-details {
+  display: flex;
+  gap: 2rem;
+  background-color: brown;
+  margin: 1rem 2rem;
+  color: #cccccc;
+}
+
+.booking-details img {
+  width: 30rem;
+}
+
+form input {
+  width: 10.5rem;
+  height: 1.4rem;
+  border: none;
+  border-radius: 2px;
+}
+
+form label {
+  color: #cccccc;
+}
+
+.booking-form button {
+  margin-top: 1rem;
+  width: 10.6rem;
+  height: 2rem;
+  border: none;
+  border-radius: 2px;
+  background-color: #ffe100;
+}
